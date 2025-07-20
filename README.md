@@ -1,4 +1,4 @@
 # learngit
 learning git and github
 <br>
-lets start
+i am gona start full stack project
